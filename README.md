@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My name is Daksh Sharma, and I'm a Python learner and aspiring AI developer from India.</h6>
+<p align="left">My name is Daksh Sharma, and I'm a Python learner and aspiring AI developer from India.</p>
 
 ###
 
