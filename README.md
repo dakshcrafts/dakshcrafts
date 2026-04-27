@@ -9,7 +9,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ 
 ```
 
-# 👋 Hey, I'm **Dakshu**
+# 👋 Hey, I'm **Daksh Sharma**
 
 ### 🧠 Python Developer · 🤖 Aspiring AI Engineer · 🇮🇳 Building from India
 
@@ -25,7 +25,7 @@
 dakshu = {
     "name"      : "Daksh Sharma",
     "username"  : "dakshcrafts",
-    "location"  : "India 🇮🇳",
+    "location"  : "Delhi,India 🇮🇳",
     "education" : "Class 12 Student",
     "focus"     : ["Python", "Artificial Intelligence", "Machine Learning"],
     "currently" : "Learning AI/ML and building real-world projects",
@@ -117,23 +117,7 @@ dakshu = {
 ## 🌐 Connect With Me
 
 <div align="left">
-
-<a href="https://www.instagram.com/dakshu.py" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-</a>
-<a href="mailto:dakshsharma@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-<a href="https://linkedin.com/in/daksh-sharma-86184a405" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
-<a href="https://x.com/YOUR-X-HANDLE-HERE" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x logo" />
-</a>
-<a href="https://github.com/dakshcrafts" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-</a>
-
+  <a href="https://www.instagram.com/dakshu.py" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>&nbsp;<a href="mailto:dakshsharma@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>&nbsp;<a href="https://linkedin.com/in/daksh-sharma-86184a405" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;<a href="https://x.com/YOUR-X-HANDLE-HERE" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x logo" /></a>&nbsp;<a href="https://github.com/dakshcrafts" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" /></a>
 </div>
 
 ---
