@@ -56,7 +56,6 @@ dakshu = {
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL"/>
 
-<br/><br/>
 
 **Data & AI Libraries:**
 
@@ -68,7 +67,6 @@ dakshu = {
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" title="Jupyter Notebook"/>
 
-<br/><br/>
 
 **Tools & Environment:**
 
@@ -113,13 +111,25 @@ dakshu = {
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
-<div align="left">
-  <a href="https://www.instagram.com/dakshu.py" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>&nbsp;<a href="mailto:dakshsharma@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>&nbsp;<a href="https://linkedin.com/in/daksh-sharma-86184a405" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;<a href="https://x.com/YOUR-X-HANDLE-HERE" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x logo" /></a>&nbsp;<a href="https://github.com/dakshcrafts" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" /></a>
-</div>
-
+<p align="left">
+  <a href="https://www.instagram.com/dakshu.py" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="mailto:dakshsharma@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/daksh-sharma-86184a405" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://x.com/YOUR-X-HANDLE-HERE" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://github.com/dakshcrafts" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+</p>
 ---
 
 ## 💭 Dev Quote of the Day
