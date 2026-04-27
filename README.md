@@ -130,8 +130,8 @@ dakshu = {
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
----
 
+---    
 ## 💭 Dev Quote of the Day
 
 <div align="center">
