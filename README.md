@@ -114,21 +114,33 @@ dakshu = {
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.instagram.com/dakshu.py" target="_blank">
+  <a href="https://" target="_blank rel="noopenernoreferrer">
+    <img src="https://skillicons.dev/icons?i=webflow" height="40" />
+  </a>  
+  <a href="https://www.instagram.com/dakshu.py" target="_blank rel="noopenernoreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="mailto:dakshsharma@gmail.com" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61567971752896" target="_blank rel="noopenernoreferrer">
+    <img src="https://cdn.simpleicons.org/facebook" height="40" />
+  </a>
+  <a href="https://www.youtube.com/@daksh-sharma3j" target="_blank rel="noopenernoreferrer">
+    <img src="https://cdn.simpleicons.org/youtube" height="40" />
+  </a>  
+  <a href="mailto:dakshsharma@gmail.com" target="_blank rel="noopenernoreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://linkedin.com/in/daksh-sharma-86184a405" target="_blank">
+  <a href="https://linkedin.com/in/daksh-sharma-86184a405" target="_blank rel="noopenernoreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://x.com/YOUR-X-HANDLE-HERE" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <a href="https://x.com/DakshSharma52" target="_blank rel="noopenernoreferrer">
+    <img src="https://cdn.simpleicons.org/x/white" height="40" />
   </a>
-  <a href="https://github.com/dakshcrafts" target="_blank">
+  <a href="https://github.com/dakshcrafts" target="_blank rel="noopenernoreferrer">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
+  <a href="https://discord.gg/gufuu7SK" target="_blank rel="noopenernoreferrer">
+    <img src="https://cdn.simpleicons.org/discord" height="40" />
+  </a>    
 </p>
 
 ---    
