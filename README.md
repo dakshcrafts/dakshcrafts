@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 ```python
-dakshu = {
+daksh = {
     "name"      : "Daksh Sharma",
     "username"  : "dakshcrafts",
     "location"  : "Delhi,India 🇮🇳",
