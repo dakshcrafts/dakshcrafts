@@ -92,7 +92,7 @@ daksh = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dakshcrafts&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=dakshcrafts&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak"/>
 
 </div>
 
