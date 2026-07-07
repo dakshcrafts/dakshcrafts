@@ -13,7 +13,7 @@
 
 ### 🧠 Python Developer · 🤖 Aspiring AI Engineer · 🇮🇳 Building from India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+intelligent+code;Class+12+%7C+Future+AI+Engineer;Building+projects+in+AI+%26+ML;Code.+Break.+Fix.+Repeat.+%F0%9F%94%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Daksh+Sharma;B.Tech+CSE+Student+%40+R.D.+Engineering+College;Python+Developer;Building+Useful+Software;Learning+AI+%26+Machine+Learning;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,22 +23,33 @@
 
 ```python
 daksh = {
-    "name"      : "Daksh Sharma",
-    "username"  : "dakshcrafts",
-    "location"  : "Delhi,India 🇮🇳",
-    "education" : "Class 12 Student",
-    "focus"     : ["Python", "Artificial Intelligence", "Machine Learning"],
-    "currently" : "Learning AI/ML and building real-world projects",
-    "goal"      : "Become a top-tier AI Engineer",
-    "motto"     : "Code is not just syntax — it's thinking made visible."
+    "name": "Daksh Sharma",
+    "username": "dakshcrafts",
+    "location": "Delhi, India 🇮🇳",
+    "education": "B.Tech CSE @ R.D. Engineering College",
+    "role": "Python Developer",
+    "currently_learning": [
+        "Data Structures & Algorithms",
+        "Machine Learning",
+        "Artificial Intelligence"
+    ],
+    "interests": [
+        "Desktop Applications",
+        "Automation",
+        "Open Source",
+        "Problem Solving"
+    ],
+    "goal": "Build impactful software and become an AI Engineer",
+    "motto": "Learn, Build, Improve, Repeat."
 }
 ```
 
-- 🔭 Currently building projects in **AI & Machine Learning**
-- 🌱 Sharpening skills in **Python, Data Science & Deep Learning**
-- 💡 I believe in learning by doing — break things, fix them, grow
-- ⚡ Every line of code is one step closer to my dream
-- 🎯 Goal: Build AI that actually makes a difference
+- 🎓 First-year B.Tech CSE student at R.D. Engineering College
+- 💻 Passionate about Python development and software engineering
+- 🚀 Currently learning Data Structures, AI, and Machine Learning
+- 🛠️ Building practical projects to strengthen problem-solving skills
+- 🌱 Exploring open-source development and modern software tools
+- 🎯 Goal: Become a skilled AI Engineer and contribute to impactful projects
 
 ---
 
