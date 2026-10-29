@@ -95,10 +95,14 @@ daksh = {
 
 **Cloud**
 
+<a href="https://builder.aws.com/community/@dakshsharma18?tab=badges" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS"/>
+</a>
+&nbsp;
+<a href="https://www.skills.google/public_profiles/78411933-8e28-4125-ac54-2b99efdd2c50" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="Google Cloud"/>
+</a>
 
-  <a href="https://www.skills.google/public_profiles/78411933-8e28-4125-ac54-2b99efdd2c50" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" alt="Google Cloud"/>
-  </a>
 
 
 ---
@@ -139,7 +143,7 @@ daksh = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph-nine-blond.vercel.app/graph?username=dakshcrafts&bg_color=0D1117&color=FF7A45&line=FF4500&point=FFB36B&area_color=FF4500&area=true&title_color=FF7A45&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph-nine-blond.vercel.app/graph?username=dakshcrafts&bg_color=0D1117&color=FF7A45&line=FF4500&point=FFB36B&area_color=FF4500&area=true&title_color=FF7A45&hide_border=true)
 
 
 </div>
