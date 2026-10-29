@@ -139,7 +139,8 @@ daksh = {
 
 <div align="center">
 
-[![Activity Graph](https://daksh-activity-graph.vercel.app/graph?username=dakshcrafts&bg_color=0D1117&color=FF7A45&line=FF4500&point=FFB36B&area_color=FF4500&area=true&title_color=FF7A45&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph-nine-blond.vercel.app/graph?username=dakshcrafts&bg_color=0D1117&color=FF7A45&line=FF4500&point=FFB36B&area_color=FF4500&area=true&title_color=FF7A45&hide_border=true)
+
 
 </div>
 
