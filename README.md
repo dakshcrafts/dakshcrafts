@@ -105,9 +105,12 @@ daksh = {
 
 ## 🏆 Competitive Programming
 
-  <a href="https://leetcode.com/u/YOUR_USERNAME/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45" alt="Leetcode"/>
-  </a>
+  <a href="https://leetcode.com/u/fCC352iNqb/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/dakshupy/">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="45" alt="GeeksforGeeks"/>
+</a>
 
 
 ---
@@ -136,7 +139,7 @@ daksh = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dakshcrafts&bg_color=0D1117&color=FFD700&line=FF4500&point=FFA500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://daksh-activity-graph.vercel.app/graph?username=dakshcrafts&bg_color=0D1117&color=FF7A45&line=FF4500&point=FFB36B&area_color=FF4500&area=true&title_color=FF7A45&hide_border=true)
 
 </div>
 
